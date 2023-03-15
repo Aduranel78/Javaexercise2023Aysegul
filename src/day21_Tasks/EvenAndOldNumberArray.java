@@ -4,8 +4,8 @@ import java.util.Arrays;
 
 public class EvenAndOldNumberArray {
     public static void main(String[] args) {
-
-
+// aysegul
+//serkan
         int[] num = {4, 50, 66, 77, 54, 87, 60, 10, 25, 85, 500, 53, 1, 10};
 
         int odd = 0;
